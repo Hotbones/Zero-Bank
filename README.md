@@ -2,7 +2,7 @@
 
 e2e test on a bank page that successfully performs a bank transfer
 
-Url a testear --> https://demo.testim.io/](http://zero.webappsecurity.com/
+Url a testear --> http://zero.webappsecurity.com
 
 ![ZERO BANK](https://github.com/Hotbones/Zero-Bank/assets/105388226/aa4652fc-ba6d-4611-9010-4b36f20cfafe)
 
