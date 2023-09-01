@@ -1,0 +1,12 @@
+{
+  "name": "Zero Bank",
+  "version": "1.0.0",
+  "description": "e2e test on a bank page that successfully performs a bank transfer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Mr Bones",
+  "license": "ISC",
+  "page": "http://zero.webappsecurity.com/",
+  "repo" : "https://github.com/Hotbones/Zero-Bank.g
